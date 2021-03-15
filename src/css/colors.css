@@ -1,0 +1,75 @@
+/* ******************************************************************* */
+/* https://www.hatchendtuition.co.uk/?ref=builtwithtailwind.com */
+
+text {
+  fill: #747884;
+  fill: #293a67;
+  color: #fdf20c;
+  color: #dc356f;
+  color: #171e2d;
+  color: #e35e26;
+  color: #4bc3d5;
+  color: #abc22a;
+
+  fill: #437cbf;
+  fill: #cf9784;
+  fill: #e2c3b8;
+  fill: #bf715d;
+  fill: #4cc4d5;
+  fill: #bfd731;
+  fill: #dc376f;
+  fill: #e25d26;
+}
+
+/* ******************************************************************* */
+/* adobe */
+/* Color Theme Swatches in Hex */
+.Pencil-tray-and-an-apple-on-notebooks-on-school-teachers-desk-1-hex {
+  color: #d9042b;
+}
+.Pencil-tray-and-an-apple-on-notebooks-on-school-teachers-desk-2-hex {
+  color: #153840;
+}
+.Pencil-tray-and-an-apple-on-notebooks-on-school-teachers-desk-3-hex {
+  color: #09a603;
+}
+.Pencil-tray-and-an-apple-on-notebooks-on-school-teachers-desk-4-hex {
+  color: #f2cb05;
+}
+.Pencil-tray-and-an-apple-on-notebooks-on-school-teachers-desk-5-hex {
+  color: #f28705;
+}
+
+/* Color Theme Swatches in RGBA */
+.Pencil-tray-and-an-apple-on-notebooks-on-school-teachers-desk-1-rgba {
+  color: rgba(216, 4, 43, 1);
+}
+.Pencil-tray-and-an-apple-on-notebooks-on-school-teachers-desk-2-rgba {
+  color: rgba(21, 55, 63, 1);
+}
+.Pencil-tray-and-an-apple-on-notebooks-on-school-teachers-desk-3-rgba {
+  color: rgba(8, 165, 3, 1);
+}
+.Pencil-tray-and-an-apple-on-notebooks-on-school-teachers-desk-4-rgba {
+  color: rgba(242, 202, 4, 1);
+}
+.Pencil-tray-and-an-apple-on-notebooks-on-school-teachers-desk-5-rgba {
+  color: rgba(242, 135, 4, 1);
+}
+
+/* Color Theme Swatches in HSLA */
+.Pencil-tray-and-an-apple-on-notebooks-on-school-teachers-desk-1-hsla {
+  color: hsla(348, 96, 43, 1);
+}
+.Pencil-tray-and-an-apple-on-notebooks-on-school-teachers-desk-2-hsla {
+  color: hsla(191, 50, 16, 1);
+}
+.Pencil-tray-and-an-apple-on-notebooks-on-school-teachers-desk-3-hsla {
+  color: hsla(118, 96, 33, 1);
+}
+.Pencil-tray-and-an-apple-on-notebooks-on-school-teachers-desk-4-hsla {
+  color: hsla(50, 96, 48, 1);
+}
+.Pencil-tray-and-an-apple-on-notebooks-on-school-teachers-desk-5-hsla {
+  color: hsla(33, 96, 48, 1);
+}

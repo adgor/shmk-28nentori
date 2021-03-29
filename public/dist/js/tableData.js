@@ -1,14 +1,14 @@
 let personData = [
   {
     name: "Filan Fisteku",
-    title: "mesues i sh. natyrore",
+    title: "Profesor i sh. natyrore",
     email: "example@gmail.com",
     facebook: "https://www.facebook.com/",
   },
 
   {
     name: "Filan Fisteku",
-    title: "mesues i matematikes",
+    title: "Profesor i matematikes",
 
     facebook: "https://www.facebook.com/",
     instagram: "https://www.instagram.com/",
@@ -17,14 +17,14 @@ let personData = [
 
   {
     name: "Filan Fisteku",
-    title: "mesues i biologjise",
+    title: "Profesor i biologjise",
     email: "example@gmail.com",
     facebook: "https://www.facebook.com/",
   },
 
   {
     name: "Filan Fisteku",
-    title: "mesues i ed. fizike",
+    title: "Profesor i ed. fizike",
 
     facebook: "https://www.facebook.com/",
     instagram: "https://www.instagram.com/",
@@ -32,12 +32,12 @@ let personData = [
 
   {
     name: "Filan Fisteku",
-    title: "mesues i gj. angleze",
+    title: "Profesor i gj. angleze",
     email: "example@gmail.com",
   },
   {
     name: "Filan Fisteku",
-    title: "mesues i kimis",
+    title: "Profesor i kimis",
     email: "example@gmail.com",
     facebook: "https://www.facebook.com/",
     twitter: "https://twitter.com/",
@@ -66,7 +66,7 @@ function buildTable(data) {
         </div>
       </td>
     <td class="px-6 py-4 whitespace-nowrap">
-      <span class="inline-flex px-2 text-xs font-semibold leading-5 rounded-full text-laRioja-800 bg-laRioja-100">
+      <span class="inline-flex px-2 text-xs font-semibold leading-5 rounded-full text-biscay-500 bg-biscay-100">
         ${data[i].title}
       </span>
     </td>
